@@ -1,4 +1,5 @@
-#ga-fm
+ga-fm
+=====
 
 [Classic and Modified FM](http://en.wikipedia.org/wiki/Frequency_modulation_synthesis) (modFM) are sound synthesis techniques that can be used to generate harmonic instrument sounds.
 
